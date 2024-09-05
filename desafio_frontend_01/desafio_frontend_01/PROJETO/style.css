@@ -1,0 +1,52 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+
+img{
+    width: 200px;
+    border-radius: 10px;
+
+   
+
+}
+
+
+
+.container{
+    background-color: white;
+    width: 400px;
+    display: flex; 
+    border-radius: 10px;
+   
+}
+@import url('https://fonts.google.com/specimen/Montserrat');
+.perfume{
+    margin-left: 20px;
+    color:hsl(212, 21%, 14%);
+    font-size: 12px;
+    font-family: Montserrat;
+    padding-top: 10px;
+}
+
+p{
+    display: block;
+    font-style: initial;
+
+}
+
+.titulo{
+    padding-left: 20px;
+    font-size: 30px;
+    word-wrap: break-word;
+    margin: 0;
+    font-weight: bold; 
+}
+
+.texto{
+    padding-left: 20px;
+    font-size: 12px;
+}
+
+.preco{
+    font-weight: 20px;
+}
